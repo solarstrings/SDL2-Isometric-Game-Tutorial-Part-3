@@ -1,0 +1,873 @@
+# depslib dependency file v1.0
+1519188690 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+	"logger.h"
+
+1506967343 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\initclose.h
+
+1506967973 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\renderer.h
+
+1520750288 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\logger.h
+
+1524861815 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\isotutorialpart3.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"initclose.h"
+	"renderer.h"
+	"texture.h"
+	"texture_pool.h"
+	"IsoEngine/isoEngine.h"
+	"ECS/Scene/scenemanager.h"
+	"logger.h"
+
+1521881210 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\texture.h
+	<SDL2/SDL.h>
+
+1522072480 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isoengine.h
+	<SDL2/SDL.h>
+	"isoMap.h"
+
+1520398708 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isomap.h
+	<SDL2/SDL.h>
+	"../texture.h"
+
+1520750273 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\logger.c
+	<stdio.h>
+	"logger.h"
+
+1522816409 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\renderer.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+	"logger.h"
+
+1522646714 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"IsoEngine/isoEngine.h"
+	"renderer.h"
+	"texture.h"
+	"logger.h"
+
+1522491221 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isoengine.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"isoEngine.h"
+	"../logger.h"
+	"../deltatimer.h"
+	"../renderer.h"
+
+1522647204 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isomap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"isoEngine.h"
+	"isoMap.h"
+	"../texture.h"
+	"../logger.h"
+
+1519188690 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+	"logger.h"
+
+1506967343 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\initclose.h
+
+1506967973 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\renderer.h
+
+1520750288 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\logger.h
+
+1522491221 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\isoengine\isoengine.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"isoEngine.h"
+	"../logger.h"
+	"../deltatimer.h"
+	"../renderer.h"
+
+1522072480 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\isoengine\isoengine.h
+	<SDL2/SDL.h>
+	"isoMap.h"
+
+1520398708 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\isoengine\isomap.h
+	<SDL2/SDL.h>
+	"../texture.h"
+
+1521881210 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\texture.h
+	<SDL2/SDL.h>
+
+1522647204 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\isoengine\isomap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"isoEngine.h"
+	"isoMap.h"
+	"../texture.h"
+	"../logger.h"
+
+1520750273 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\logger.c
+	<stdio.h>
+	"logger.h"
+
+1522816409 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\renderer.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+	"logger.h"
+
+1522646714 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"IsoEngine/isoEngine.h"
+	"renderer.h"
+	"texture.h"
+	"logger.h"
+
+1521779620 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_inputkeyboard.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputkeyboard.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1519835386 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_inputkeyboard.h
+	<SDL2/SDL.h>
+
+1524192541 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\scene\scene.h
+	"../Entity/entity.h"
+	"../Component/component.h"
+	"../System/system.h"
+	"../../IsoEngine/isoEngine.h"
+
+1520006581 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\entity\entity.h
+	"SDL2/SDL.h"
+	"../Component/component.h"
+
+1519748617 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component.h
+	"component_position.h"
+	"component_velocity.h"
+	"component_render2D.h"
+	"component_inputkeyboard.h"
+	"component_inputmouse.h"
+	"component_nametag.h"
+
+1520872452 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_position.h
+	<SDL2/SDL.h>
+
+1522584824 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_velocity.h
+	<SDL2/SDL.h>
+
+1516731872 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_render.h
+
+1521776468 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system.h
+	<SDL2/SDL.h>
+	"../Entity/entity.h"
+	"system_move.h"
+	"system_input.h"
+	"system_render_iso_world.h"
+	"system_control_iso_world.h"
+	"system_control_entity.h"
+
+1517373615 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\movesystem.h
+
+1517403623 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\inputsystem.h
+	<SDL2/SDL.h>
+
+1520872437 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_position.c
+	<stdlib.h>
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1516731803 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_render.c
+
+1522584813 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_velocity.c
+	<stdlib.h>
+	"component_velocity.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1523454755 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\scene\scene.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<SDL2/SDL.h>
+	"../../IsoEngine/isoEngine.h"
+	"../../deltatimer.h"
+	"../../logger.h"
+	"../Entity/entity.h"
+	"scene.h"
+
+1517040446 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\deltatimer.h
+	<SDL2/SDL.h>
+
+1524195554 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\scene\scenemanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../logger.h"
+	"../../deltatimer.h"
+	"scenemanager.h"
+	"scene.h"
+
+1518067378 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\scene\scenemanager.h
+	"scene.h"
+
+1518581625 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\inputsystem.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"system.h"
+	"movesystem.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1518579943 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\movesystem.c
+	"system.h"
+	"movesystem.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1524855532 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\isotutorialpart3.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"initclose.h"
+	"renderer.h"
+	"texture.h"
+	"texture_pool.h"
+	"IsoEngine/isoEngine.h"
+	"ECS/Scene/scenemanager.h"
+	"logger.h"
+
+1518181482 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\deltatimer.c
+	<SDL2/SDL.h>
+	"deltatimer.h"
+
+1520751620 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_animation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"component_animation.h"
+	"../Scene/scene.h"
+	"../../logger.h"
+
+1520258380 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_animation.h
+	"../../texture.h"
+
+1522407066 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_render2d.h
+	"../../texture.h"
+
+1519918170 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_inputmouse.h
+	<SDL2/SDL.h>
+
+1522489329 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_nametag.h
+
+1521776639 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_move.h
+
+1521776628 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_input.h
+	<SDL2/SDL.h>
+
+1522387077 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_render_iso_world.h
+
+1521776715 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_control_iso_world.h
+
+1521776605 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_control_entity.h
+
+1520258261 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_inputmouse.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputmouse.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522489388 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_nametag.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../logger.h"
+	"../Scene/scene.h"
+	"component_nametag.h"
+
+1524320684 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\component\component_render2d.c
+	<stdlib.h>
+	<stdio.h>
+	"component_render2D.h"
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522816747 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_control_entity.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1522490431 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_control_iso_world.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1524302873 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_input.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1521776561 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_move.c
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1522609152 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\ecs\system\system_render_iso_world.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+	"system.h"
+	"system_render_iso_world.h"
+	"system_control_entity.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../texture.h"
+	"../../IsoEngine/isoEngine.h"
+	"../../renderer.h"
+
+1520354794 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\texture_pool.h
+	<SDL2/SDL.h>
+	"texture.h"
+
+1524860578 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube - lab\texture_pool.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"texture_pool.h"
+	"logger.h"
+
+1518181482 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\deltatimer.c
+	<SDL2/SDL.h>
+	"deltatimer.h"
+
+1517040446 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\deltatimer.h
+	<SDL2/SDL.h>
+
+1520751620 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_animation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"component_animation.h"
+	"../Scene/scene.h"
+	"../../logger.h"
+
+1520258380 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_animation.h
+	"../../texture.h"
+
+1524192541 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scene.h
+	"../Entity/entity.h"
+	"../Component/component.h"
+	"../System/system.h"
+	"../../IsoEngine/isoEngine.h"
+
+1520006581 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\entity\entity.h
+	"SDL2/SDL.h"
+	"../Component/component.h"
+
+1519748617 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component.h
+	"component_position.h"
+	"component_velocity.h"
+	"component_render2D.h"
+	"component_inputkeyboard.h"
+	"component_inputmouse.h"
+	"component_nametag.h"
+
+1520872452 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_position.h
+	<SDL2/SDL.h>
+
+1522584824 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_velocity.h
+	<SDL2/SDL.h>
+
+1522407066 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_render2d.h
+	"../../texture.h"
+
+1519835386 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputkeyboard.h
+	<SDL2/SDL.h>
+
+1519918170 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputmouse.h
+	<SDL2/SDL.h>
+
+1522489329 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_nametag.h
+
+1521776468 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system.h
+	<SDL2/SDL.h>
+	"../Entity/entity.h"
+	"system_move.h"
+	"system_input.h"
+	"system_render_iso_world.h"
+	"system_control_iso_world.h"
+	"system_control_entity.h"
+
+1521776639 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_move.h
+
+1521776628 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_input.h
+	<SDL2/SDL.h>
+
+1522387077 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_render_iso_world.h
+
+1521776715 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_iso_world.h
+
+1521776605 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_entity.h
+
+1521779620 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputkeyboard.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputkeyboard.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1520258261 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputmouse.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputmouse.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522489388 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_nametag.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../logger.h"
+	"../Scene/scene.h"
+	"component_nametag.h"
+
+1520872437 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_position.c
+	<stdlib.h>
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522584813 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_velocity.c
+	<stdlib.h>
+	"component_velocity.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1523454755 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scene.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<SDL2/SDL.h>
+	"../../IsoEngine/isoEngine.h"
+	"../../deltatimer.h"
+	"../../logger.h"
+	"../Entity/entity.h"
+	"scene.h"
+
+1524195554 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scenemanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../logger.h"
+	"../../deltatimer.h"
+	"scenemanager.h"
+	"scene.h"
+
+1518067378 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scenemanager.h
+	"scene.h"
+
+1522816747 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_entity.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1522490431 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_iso_world.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1521776561 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_move.c
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1524320684 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_render2d.c
+	<stdlib.h>
+	<stdio.h>
+	"component_render2D.h"
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1524302873 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_input.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1524860827 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_render_iso_world.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+	"system.h"
+	"system_render_iso_world.h"
+	"system_control_entity.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../texture.h"
+	"../../IsoEngine/isoEngine.h"
+	"../../renderer.h"
+
+1520354794 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\texture_pool.h
+	<SDL2/SDL.h>
+	"texture.h"
+
+1524861002 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 3 - youtube\texture_pool.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"texture_pool.h"
+	"logger.h"
+
+1518181482 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\deltatimer.c
+	<SDL2/SDL.h>
+	"deltatimer.h"
+
+1517040446 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\deltatimer.h
+	<SDL2/SDL.h>
+
+1520751620 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_animation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"component_animation.h"
+	"../Scene/scene.h"
+	"../../logger.h"
+
+1520258380 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_animation.h
+	"../../texture.h"
+
+1521881210 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\texture.h
+	<SDL2/SDL.h>
+
+1524192541 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scene.h
+	"../Entity/entity.h"
+	"../Component/component.h"
+	"../System/system.h"
+	"../../IsoEngine/isoEngine.h"
+
+1520006581 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\entity\entity.h
+	"SDL2/SDL.h"
+	"../Component/component.h"
+
+1519748617 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component.h
+	"component_position.h"
+	"component_velocity.h"
+	"component_render2D.h"
+	"component_inputkeyboard.h"
+	"component_inputmouse.h"
+	"component_nametag.h"
+
+1520872452 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_position.h
+	<SDL2/SDL.h>
+
+1522584824 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_velocity.h
+	<SDL2/SDL.h>
+
+1522407066 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_render2d.h
+	"../../texture.h"
+
+1519835386 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputkeyboard.h
+	<SDL2/SDL.h>
+
+1519918170 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputmouse.h
+	<SDL2/SDL.h>
+
+1522489329 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_nametag.h
+
+1521776468 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system.h
+	<SDL2/SDL.h>
+	"../Entity/entity.h"
+	"system_move.h"
+	"system_input.h"
+	"system_render_iso_world.h"
+	"system_control_iso_world.h"
+	"system_control_entity.h"
+
+1521776639 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_move.h
+
+1521776628 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_input.h
+	<SDL2/SDL.h>
+
+1522387077 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_render_iso_world.h
+
+1521776715 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_iso_world.h
+
+1521776605 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_entity.h
+
+1522072480 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isoengine.h
+	<SDL2/SDL.h>
+	"isoMap.h"
+
+1520398708 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isomap.h
+	<SDL2/SDL.h>
+	"../texture.h"
+
+1520750288 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\logger.h
+
+1521779620 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputkeyboard.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputkeyboard.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1520258261 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_inputmouse.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"component_inputmouse.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522489388 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_nametag.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../logger.h"
+	"../Scene/scene.h"
+	"component_nametag.h"
+
+1520872437 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_position.c
+	<stdlib.h>
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1524320684 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_render2d.c
+	<stdlib.h>
+	<stdio.h>
+	"component_render2D.h"
+	"component_position.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1522584813 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\component\component_velocity.c
+	<stdlib.h>
+	"component_velocity.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+
+1523454755 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scene.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<SDL2/SDL.h>
+	"../../IsoEngine/isoEngine.h"
+	"../../deltatimer.h"
+	"../../logger.h"
+	"../Entity/entity.h"
+	"scene.h"
+
+1524195554 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scenemanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../logger.h"
+	"../../deltatimer.h"
+	"scenemanager.h"
+	"scene.h"
+
+1518067378 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\scene\scenemanager.h
+	"scene.h"
+
+1522816747 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_entity.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1522490431 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_control_iso_world.c
+	<stdio.h>
+	<string.h>
+	"system.h"
+	"system_control_iso_world.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../IsoEngine/isoEngine.h"
+
+1524302873 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_input.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1521776561 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_move.c
+	"system.h"
+	"system_move.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+
+1524860827 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\ecs\system\system_render_iso_world.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+	"system.h"
+	"system_render_iso_world.h"
+	"system_control_entity.h"
+	"../../logger.h"
+	"../../deltatimer.h"
+	"../Scene/scene.h"
+	"../Component/component.h"
+	"../../texture.h"
+	"../../IsoEngine/isoEngine.h"
+	"../../renderer.h"
+
+1506967973 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\renderer.h
+
+1519188690 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+	"logger.h"
+
+1506967343 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\initclose.h
+
+1522491221 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isoengine.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"isoEngine.h"
+	"../logger.h"
+	"../deltatimer.h"
+	"../renderer.h"
+
+1522647204 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\isoengine\isomap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"isoEngine.h"
+	"isoMap.h"
+	"../texture.h"
+	"../logger.h"
+
+1520750273 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\logger.c
+	<stdio.h>
+	"logger.h"
+
+1522816409 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\renderer.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+	"logger.h"
+
+1522646714 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"IsoEngine/isoEngine.h"
+	"renderer.h"
+	"texture.h"
+	"logger.h"
+
+1524861002 source:d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\texture_pool.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"texture_pool.h"
+	"logger.h"
+
+1520354794 d:\programmering\sdl2_isometric tutorial serie\temp\sdl2 isometric game tutorial series part 3 - youtube\texture_pool.h
+	<SDL2/SDL.h>
+	"texture.h"
+
